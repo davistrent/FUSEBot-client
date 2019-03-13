@@ -1,0 +1,20 @@
+{
+  "name": "FUSEBot",
+  "version": "1.0.0",
+  "description": "Node LUIS WebChat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davistrent/FUSEBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davistrent/FUSEBot/issues"
+  },
+  "homepage": "https://github.com/davistrent/FUSEBot#readme"
+}
